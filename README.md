@@ -18,7 +18,8 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 
 **Data Set**: The dataset includes information on Rockbuster’s film inventory, customers, and transactions, loaded into a PostgreSQL database. It's structured to reflect real-world business scenarios and relationships between different data tables.
 
--[Rockbuster Data Set]
+-[Rockbuster Data Set]([Rockbuster.Excel.Data.xls](https://github.com/user-attachments/files/16280455/Rockbuster.Excel.Data.xls)
+
 
 **Project Deliverables**: The project culminates in a comprehensive analysis, backed by SQL queries, visualizations, and a narrative that translates complex data into actionable business insights.
 
@@ -29,6 +30,6 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 
 **Visualizations**: Check out the(https://public.tableau.com/app/profile/poojaben.thummar/viz/Task3_10PresentingSQLResults_17195836431500/RockbusterStealthProject)) for interactive insights.  
 
-**Final Project PDF**: Find a detailed report in the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
-
-This repository showcases not just technical SQL capabilities but also the ability to convert data into strategic business outcomes.[Task-3.10-Recommendations-of-Rockbuster-Data.pdf](https://github.com/user-attachments/files/16280365/Task-3.10-Recommendations-of-Rockbuster-Data.pdf)
+**Final Project PDF**: 
+[Task-3.10-Recommendations-of-Rockbuster-Data.pdf]([Rockbuster.Excel.Data.xls](https://github.com/user-attachments/files/16280455/Rockbuster.Excel.Data.xls)
+https://github.com/user-attachments/files/16280365/Task-3.10-Recommendations-of-Rockbuster-Data.pdf)
